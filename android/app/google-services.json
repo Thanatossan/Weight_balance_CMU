@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243365894279",
+    "project_id": "wbcmu-ad0cb",
+    "storage_bucket": "wbcmu-ad0cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243365894279:android:dc08712176079b80d24022",
+        "android_client_info": {
+          "package_name": "com.cmu.wb_cmu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243365894279-j949uqiu03qtrah659uligm6jckbrklv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDORLEb3mDBsSCFYzNwDF2DbZdpQW_3Bbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243365894279-j949uqiu03qtrah659uligm6jckbrklv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
